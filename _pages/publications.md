@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -39,7 +39,7 @@ author_profile: true
    In IEEE Communications Special Issue on Network Slicing in 5G Systems, May 2017.  
    [[DOI](https://doi.org/10.1109/MCOM.2017.1600951)][[pdf](https://www.research.ed.ac.uk/portal/files/32883461/network_slicing_5g_final_version_1.pdf)]  
 
-*  **FlexRAN: A Flexible and Programmable Platform for Software-Defined Radio Access Networks**
+*  **FlexRAN: A Flexible and Programmable Platform for Software-Defined Radio Access Networks**  
    **X. Foukas**, N. Nikaein, M. M. Kassem, M. K. Marina and K. Kontovasilis  
    In [Proc. ACM CoNEXT](http://conferences2.sigcomm.org/co-next/2016), Dec 2016.  
    The FlexRAN platform has also been demonstrated at [ACM MobiCom 2017](https://www.sigmobile.org/mobicom/2017/), [All Things Cellular (Oct 2016)](https://networks.inf.ed.ac.uk/atc/index.html) and [IEEE 5G Summit (Nov 2016)](http://www.5gsummit.org/berlin/).  
@@ -63,6 +63,6 @@ author_profile: true
 
 *  **Energy requirements of secure vertical handover operations in the 802.21a framework**  
    **X. Foukas**, D. Loukatos, K. Kontovasilis and H. Marques  
-   In [Proc. IEEE CAMAD], Dec 2014  
+   In Proc. IEEE CAMAD, Dec 2014  
    [[DOI](https://doi.org/10.1109/CAMAD.2014.7033257)][[PDF](https://xfoukas.github.io/files/foukas-camad14.pdf)]  
 
