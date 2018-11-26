@@ -40,8 +40,29 @@ author_profile: true
    [[DOI](https://doi.org/10.1109/MCOM.2017.1600951)][[pdf](https://www.research.ed.ac.uk/portal/files/32883461/network_slicing_5g_final_version_1.pdf)]  
 
 *  **FlexRAN: A Flexible and Programmable Platform for Software-Defined Radio Access Networks**
-   **X. Foukas**, N. Nikaein, M. M. Kassem, M. K. Marina and K. Kontovasilis
-   In [Proc. ACM CoNEXT](http://conferences2.sigcomm.org/co-next/2016), Dec 2016.
-   The FlexRAN platform has also been demonstrated at [ACM MobiCom 2017](https://www.sigmobile.org/mobicom/2017/), [All Things Cellular (Oct 2016)](https://networks.inf.ed.ac.uk/atc/index.html) and [IEEE 5G Summit (Nov 2016)](http://www.5gsummit.org/berlin/).
+   **X. Foukas**, N. Nikaein, M. M. Kassem, M. K. Marina and K. Kontovasilis  
+   In [Proc. ACM CoNEXT](http://conferences2.sigcomm.org/co-next/2016), Dec 2016.  
+   The FlexRAN platform has also been demonstrated at [ACM MobiCom 2017](https://www.sigmobile.org/mobicom/2017/), [All Things Cellular (Oct 2016)](https://networks.inf.ed.ac.uk/atc/index.html) and [IEEE 5G Summit (Nov 2016)](http://www.5gsummit.org/berlin/).  
    More information about the project can be found in the [project's website](https://networks.inf.ed.ac.uk/flexran/).  
-   [[DOI](https://doi.org/10.1145/2999572.2999599)][[pdf](https://www.research.ed.ac.uk/portal/files/28562578/flexran_1.pdf)]  
+   [[DOI](https://doi.org/10.1145/2999572.2999599)][[pdf](https://www.research.ed.ac.uk/portal/files/28562578/flexran_1.pdf)]
+
+*  **Exploiting Short-Range Cooperation for Energy Efficient Vertical Handover Operations**  
+   **X. Foukas**, K. Kontovasilis and M. K. Marina  
+   In [Proc. 11th International Conference on Network and Service Management (CNSM'15)](http://www.cnsm-conf.org/2015/), Nov 2015.  
+   [[DOI](https://doi.org/10.1109/CNSM.2015.7367374)][[pdf](https://www.research.ed.ac.uk/portal/files/24657161/1570163993.pdf)]
+
+*  **Software Defined Networking Concepts**  
+   **X. Foukas**, M. K. Marina and K. Kontovasilis  
+   Book Chapter in [Software Defined Mobile Networks (SDMN): Beyond LTE Network Architecture](https://www.wiley.com/en-us/Software+Defined+Mobile+Networks+(SDMN):+Beyond+LTE+Network+Architecture-p-9781118900284), M. Liyanage, A. Gurtov and M. Ylianttila, editors, Wiley, Aug 2015.  
+   [[DOI](http://dx.doi.org/10.1002%2F9781118900253.ch3)][[pdf](https://xfoukas.github.io/files/sdn-chapter.pdf)]  
+
+*  **Measuring the Mixing Time of a Network**  
+   **X. Foukas**, A. Carzaniga and A. L. Wolf  
+   In [Proc. IEEE INFOCOM](http://infocom2015.ieee-infocom.org/), May 2015  
+   [[DOI](https://doi.org/10.1109/INFOCOM.2015.7218667)][[pdf](https://xfoukas.github.io/files/mixing-infocom15.pdf)]
+
+*  **Energy requirements of secure vertical handover operations in the 802.21a framework**  
+   **X. Foukas**, D. Loukatos, K. Kontovasilis and H. Marques  
+   In [Proc. IEEE CAMAD], Dec 2014  
+   [[DOI](https://doi.org/10.1109/CAMAD.2014.7033257)][[PDF](https://xfoukas.github.io/files/foukas-camad14.pdf)]  
+
