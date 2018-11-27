@@ -25,7 +25,7 @@ author_profile: true
   **X. Foukas**, M. K. Marina and K. Kontovasilis  
   In [Proc. ACM MobiCom](https://www.sigmobile.org/mobicom/2017/), Oct 2017.  
   **Best Demonstration Award at ACM MobiCom 2017**  
-  **Finalist at [Lime Micro Hackathon](https://www.btplc.com/btinfinitylab/LimeMicro/)**
+  **Finalist at [Lime Micro Hackathon](https://www.btplc.com/btinfinitylab/LimeMicro/)**  
   Also demonstrated at [IEEE 5G Summit (July 2017)](http://www.5gsummit.org/greece/) and at [Cambridge Wireless Virtual Networks Group Event "The Time is Ripe for Innovations" (Nov 2017)](https://www.cambridgewireless.co.uk/events/67373-virtual-networks-sig-the-time-is-ripe-for-in/).  
   [[DOI](https://doi.org/10.1145/3117811.3117831)][[pdf](https://www.research.ed.ac.uk/portal/files/42138372/orion_final_version_2.pdf)]  
 
