@@ -14,7 +14,7 @@ author_profile: true
 * **Experience Building a Prototype 5G Testbed**  
   **X. Foukas**, F. Sardis, F. Foster, M. K. Marina, M. A. Lema and M. Dohler  
   In [Proc. ACM CoNEXT 2018 Workshop on Experimentation and Measurements in 5G (EM-5G’18)](https://conferences2.sigcomm.org/co-next/2018/#!/workshop-em5g), Dec 2018.  
-  [DOI][pdf]  
+  [[DOI](https://doi.org/10.1145/3286680.3286683)][pdf]  
 
 * **Short-Range Cooperation of Mobile Devices for Energy-Efficient Vertical Handovers**  
   **X. Foukas**, K. Kontovasilis and M. K. Marina  
