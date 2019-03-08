@@ -13,7 +13,7 @@ author_profile: true
 
 * **Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor Neutral-Host Small Cells**  
   **X. Foukas**, M. K. Marina and K. Kontovasilis
-  (Under review)
+  (Under review)   
   [DOI][pdf][[arxiv](https://arxiv.org/abs/1812.06183)]  
 
 * **Experience Building a Prototype 5G Testbed**  
