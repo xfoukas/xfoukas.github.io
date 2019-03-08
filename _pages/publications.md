@@ -11,10 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+* **Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor Neutral-Host Small Cells**  
+  **X. Foukas**, M. K. Marina and K. Kontovasilis
+  (Under review)
+  [DOI][pdf][[arxiv](https://arxiv.org/abs/1812.06183)]  
+
 * **Experience Building a Prototype 5G Testbed**  
   **X. Foukas**, F. Sardis, F. Foster, M. K. Marina, M. A. Lema and M. Dohler  
   In [Proc. ACM CoNEXT 2018 Workshop on Experimentation and Measurements in 5G (EM-5G’18)](https://conferences2.sigcomm.org/co-next/2018/#!/workshop-em5g), Dec 2018.  
-  [[DOI](https://doi.org/10.1145/3286680.3286683)][pdf]  
+  [[DOI](https://doi.org/10.1145/3286680.3286683)][[pdf](https://www.research.ed.ac.uk/portal/files/77048341/experience_building_a_prototype_5G_testbed.pdf)]  
 
 * **Short-Range Cooperation of Mobile Devices for Energy-Efficient Vertical Handovers**  
   **X. Foukas**, K. Kontovasilis and M. K. Marina  
