@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Xenofon Foukas"
 title_separator          : "-"
 name                     : &name "Dr. Xenofon Foukas"
-description              : &description "Postdoctoral Researcher at Microsoft Research Cambridge"
+description              : &description "Senior Researcher at Microsoft Research Cambridge"
 url                      : https://xfoukas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"	 
 repository               : "xfoukas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Xenofon Foukas"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Microsoft Research Cambridge on next generation 5G mobile networks"
+  bio              : "Senior Researcher at Microsoft Research Cambridge on next generation 5G mobile networks"
   location         : "Cambridge, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rdYmDXAAAAAJ&hl=en&oi=ao"
