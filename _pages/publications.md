@@ -11,23 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-* **Characterization and Identification of Cloudified Mobile Network Performance Bottlenecks**
-  G. Patounas, **X. Foukas**, A. Elmokashfi, M. K. Marina
-  In IEEE Transactions on Network and Service Management (TNSM), Aug 2020,
+* **Characterization and Identification of Cloudified Mobile Network Performance Bottlenecks**  
+  G. Patounas, **X. Foukas**, A. Elmokashfi, M. K. Marina  
+  In IEEE Transactions on Network and Service Management (TNSM), Aug 2020.  
   [[DOI](https://doi.org/10.1109/TNSM.2020.3018538)][[pdf](https://www.research.ed.ac.uk/portal/files/160831937/Characterization_and_Identification_PATOUNAS_DOA17082020_AFV.pdf)][[arxiv](https://arxiv.org/abs/2007.11472)]
 
-* **Towards Efficient and Adaptable Monitoring of Softwarized Mobile Networks**
-  A. Plascinskas, **X. Foukas**, M. K. Marina
-  In Proc. 32nd IEEE/IFIP Network Operations and Management Symposium (NOMS 2020), Apr 2020.
+* **Towards Efficient and Adaptable Monitoring of Softwarized Mobile Networks**  
+  A. Plascinskas, **X. Foukas**, M. K. Marina  
+  In Proc. 32nd IEEE/IFIP Network Operations and Management Symposium (NOMS 2020), Apr 2020.  
   [[DOI](https://doi.org/10.1109/NOMS47738.2020.9110452)][[pdf](https://www.research.ed.ac.uk/portal/files/132362223/Towards_Efficient_and_PLASCINSKAS_DOA22112019_AFV.pdf)]
 
-* **Slicing and Radio Resource Management**
-  K. Samdanis, **X. Foukas**, E. Pateromichelakis, A. Ksentini
-  In Wiley 5G Ref: The Essential 5G Reference Online, Dec 2019.
+* **Slicing and Radio Resource Management**  
+  K. Samdanis, **X. Foukas**, E. Pateromichelakis, A. Ksentini  
+  In Wiley 5G Ref: The Essential 5G Reference Online, Dec 2019.  
   [[DOI](https://doi.org/10.1002/9781119471509.w5GRef098)]
 
 * **Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor Neutral-Host Small Cells**  
-  **X. Foukas**, M. K. Marina and K. Kontovasilis
+  **X. Foukas**, M. K. Marina and K. Kontovasilis   
   In IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Network Softwarization & Enablers, Vol. 37, No. 8, Aug 2019.   
   [[DOI](https://doi.org/10.1109/JSAC.2019.2927067)][[arxiv](https://arxiv.org/abs/1812.06183)]  
 
