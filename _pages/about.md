@@ -13,9 +13,9 @@ I am a Senior Researcher at [Microsoft Research Cambridge](https://www.microsoft
 
 My research interests are in:
 
-* 5G system architecture
-* cloud RAN
-* network slicing
+* 5G and beyond mobile network architecture
 * virtualized and software-defined radio access networks
+* applications of machine learning to mobile networks
+* network slicing & spectrum sharing
+* edge computing
 * network management & orchestration
-* spectrum sharing
