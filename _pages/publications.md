@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+* **Energy-Efficient Orchestration of Metro-Scale 5G Radio Access Networks**  
+  R. Singh, C. Hasan, **X. Foukas**, M. Fiore, M. K. Marina, Y. Wang  
+  To appear in IEEE INFOCOM 2021.  
+
 * **Characterization and Identification of Cloudified Mobile Network Performance Bottlenecks**  
   G. Patounas, **X. Foukas**, A. Elmokashfi, M. K. Marina  
   In IEEE Transactions on Network and Service Management (TNSM), Aug 2020.  
