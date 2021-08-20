@@ -11,9 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+* **Concordia: Teaching the 5G vRAN to Share Compute**  
+  **X. Foukas**, B. Radunovic__
+  In [Proc. ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2021/), Aug 2021  
+  [[DOI](https://doi.org/10.1145/3452296.3472894)][[pdf](https://xfoukas.github.io/files/concordia_sigcomm21.pdf)]
+
 * **Energy-Efficient Orchestration of Metro-Scale 5G Radio Access Networks**  
   R. Singh, C. Hasan, **X. Foukas**, M. Fiore, M. K. Marina, Y. Wang  
-  To appear in IEEE INFOCOM 2021.  
+  In [Proc. IEEE INFOCOM](https://infocom2021.ieee-infocom.org/), May 2021  
+  [[DOI](https://doi.org/10.1109/INFOCOM42981.2021.9488786)][[pdf](https://xfoukas.github.io/files/5genergy_infocom21.pdf)]
 
 * **Characterization and Identification of Cloudified Mobile Network Performance Bottlenecks**  
   G. Patounas, **X. Foukas**, A. Elmokashfi, M. K. Marina  
