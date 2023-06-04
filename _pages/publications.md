@@ -11,8 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+* **Taking 5G RAN Analytics and Control to a New Level**  
+  **X. Foukas**, B. Radunovic, M. Balkwill, Z. Lai  
+  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023 (to appear)  
+  [[Pre-print](https://www.microsoft.com/en-us/research/publication/taking-5g-ran-analytics-and-control-to-a-new-level/)]  
+
 * **Concordia: Teaching the 5G vRAN to Share Compute**  
-  **X. Foukas**, B. Radunovic__
+  **X. Foukas**, B. Radunovic  
   In [Proc. ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2021/), Aug 2021  
   [[DOI](https://doi.org/10.1145/3452296.3472894)][[pdf](https://xfoukas.github.io/files/concordia_sigcomm21.pdf)]
 

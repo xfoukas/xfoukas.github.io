@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Xenofon Foukas"
+title                    : "Xenofon Foukas"
 title_separator          : "-"
-name                     : &name "Dr. Xenofon Foukas"
+name                     : &name "Xenofon Foukas"
 description              : &description "Senior Researcher at Microsoft Azure for Operators"
 url                      : https://xfoukas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"	 
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Xenofon Foukas"
+  name             : "Xenofon Foukas"
   avatar           : "profile.jpg"
   bio              : "Senior Researcher at Microsoft Azure for Operators on next generation mobile networks"
   location         : "Cambridge, United Kingdom"
