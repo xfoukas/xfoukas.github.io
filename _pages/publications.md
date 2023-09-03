@@ -16,6 +16,11 @@ author_profile: true
   In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023 (to appear)  
   [[Pre-print](https://www.microsoft.com/en-us/research/publication/taking-5g-ran-analytics-and-control-to-a-new-level/)]  
 
+* **Enabling Resilience in Virtualized RANs with Atlas**  
+  J. Xing, J. Gong, **X. Foukas**, A. Kalia, D. Kim, M. Kotaru  
+  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023 (to appear)  
+  [[Pre-print](https://www.microsoft.com/en-us/research/publication/enabling-resilience-in-virtualized-rans-with-atlas/)]  
+
 * **Concordia: Teaching the 5G vRAN to Share Compute**  
   **X. Foukas**, B. Radunovic  
   In [Proc. ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2021/), Aug 2021  
