@@ -13,7 +13,7 @@ author_profile: true
 
 * **Taking 5G RAN Analytics and Control to a New Level**  
   **X. Foukas**, B. Radunovic, M. Balkwill, Z. Lai  
-  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023
+  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023 
   [[DOI](https://doi.org/10.1145/3570361.3592493)][pdf](https://xfoukas.github.io/files/janus_mobicom23.pdf)]  
 
 * **Enabling Resilience in Virtualized RANs with Atlas**  
