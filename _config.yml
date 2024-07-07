@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xenofon Foukas"
 title_separator          : "-"
 name                     : &name "Xenofon Foukas"
-description              : &description "Principal Researcher at Microsoft Azure for Operators"
+description              : &description "Principal Researcher at Microsoft Research"
 url                      : https://xfoukas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"	 
 repository               : "xfoukas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xenofon Foukas"
   avatar           : "profile.jpg"
-  bio              : "Principal Researcher at Microsoft Azure for Operators on next generation mobile networks"
+  bio              : "Principal Researcher at Microsoft Research on intelligent edge computing and next generation mobile networks"
   location         : "Cambridge, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rdYmDXAAAAAJ&hl=en&oi=ao"

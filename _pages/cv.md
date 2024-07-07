@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the most up-to-date (April 2024) version of my CV [here](https://xfoukas.github.io/files/CV_Foukas.pdf).
+You can find the most up-to-date (July 2024) version of my CV [here](https://xfoukas.github.io/files/CV_Foukas.pdf).
