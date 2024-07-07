@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-* **SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN** 
-  C. Sun, U. Pawar, M. Khoja, **X. Foukas**, M. K. Marina, B. Radunovic 
+* **SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN**  
+  C. Sun, U. Pawar, M. Khoja, **X. Foukas**, M. K. Marina, B. Radunovic  
   To appear in [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2024), Nov 2024 
 
-* **On the Criticality of Integrity Protection in 5G Fronthaul Networks** 
-  J. Xing, S. Yoo, **X. Foukas**, D. Kim, M. K. Reiter 
+* **On the Criticality of Integrity Protection in 5G Fronthaul Networks**  
+  J. Xing, S. Yoo, **X. Foukas**, D. Kim, M. K. Reiter  
   To appear in [Proc. USENIX Security](https://www.usenix.org/conference/usenixsecurity24), Aug 2024  
 
 * **Taking 5G RAN Analytics and Control to a New Level**  
