@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Towards Energy Efficient 5G vRAN Servers**  
+  A. Kalia, N. Lazarev, L. Xue, **X. Foukas**, B. Radunovic, F. Y. Yan  
+  To appear in [Proc. USENIX NSDI](https://www.usenix.org/conference/nsdi25), April 2025
 
 * **SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN**  
   C. Sun, U. Pawar, M. Khoja, **X. Foukas**, M. K. Marina, B. Radunovic  
@@ -17,11 +20,13 @@ author_profile: true
 
 * **On the Criticality of Integrity Protection in 5G Fronthaul Networks**  
   J. Xing, S. Yoo, **X. Foukas**, D. Kim, M. K. Reiter  
-  To appear in [Proc. USENIX Security](https://www.usenix.org/conference/usenixsecurity24), Aug 2024  
+  In [Proc. USENIX Security](https://www.usenix.org/conference/usenixsecurity24), Aug 2024  
+  [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong)]  
 
 * **Taking 5G RAN Analytics and Control to a New Level**  
   **X. Foukas**, B. Radunovic, M. Balkwill, Z. Lai  
-  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023 
+  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023  
+  **Best Demonstration Runner-Up Award at ACM MobiCom 2023**  
   [[DOI](https://doi.org/10.1145/3570361.3592493)][pdf](https://xfoukas.github.io/files/janus_mobicom23.pdf)]  
 
 * **Enabling Resilience in Virtualized RANs with Atlas**  
