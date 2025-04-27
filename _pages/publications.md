@@ -16,7 +16,7 @@ author_profile: true
   [[DOI](https://doi.org/10.1145/3708468.3711887)][[pdf](https://xfoukas.github.io/files/cellular_edge_hotmobile25.pdf)]  
 
 * **Towards Scalable and Cost-Effective RAN Emulation Leveraging the Public Cloud**
-  U. Pawar, A. F. Ferguson, Y. Takano, J. Larrea, **X. Foukas**, M. K. Marina, B. Radunovic  
+  U. Pawar, A. F. Ferguson, Y. Takano, J. Larrea, **X. Foukas**, M. K. Marina, B. Radunovic   
   In [ACM HotMobile](https://hotmobile.org/2025/), Feb 2025  
   [[DOI](https://doi.org/10.1145/3708468.3711895)][[pdf](https://xfoukas.github.io/files/ran_emulation_hotmobile25.pdf)]  
 
