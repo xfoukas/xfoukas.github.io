@@ -10,13 +10,25 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **The future of the industrial AI edge is cellular**  
+  **X. Foukas**, B. Radunovic  
+  In [ACM HotMobile](https://hotmobile.org/2025/), Feb 2025  
+  [[DOI](https://doi.org/10.1145/3708468.3711887)][[pdf](https://xfoukas.github.io/files/cellular_edge_hotmobile25.pdf)]  
+
+* **Towards Scalable and Cost-Effective RAN Emulation Leveraging the Public Cloud**
+  U. Pawar, A. F. Ferguson, Y. Takano, J. Larrea, **X. Foukas**, M. K. Marina, B. Radunovic  
+  In [ACM HotMobile](https://hotmobile.org/2025/), Feb 2025  
+  [[DOI](https://doi.org/10.1145/3708468.3711895)][[pdf](https://xfoukas.github.io/files/ran_emulation_hotmobile25.pdf)]  
+
 * **Towards Energy Efficient 5G vRAN Servers**  
   A. Kalia, N. Lazarev, L. Xue, **X. Foukas**, B. Radunovic, F. Y. Yan  
-  To appear in [Proc. USENIX NSDI](https://www.usenix.org/conference/nsdi25), April 2025
+  In [Proc. USENIX NSDI](https://www.usenix.org/conference/nsdi25), April 2025  
+  [[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2024/06/renc_nsdi.pdf)]  
 
 * **SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN**  
   C. Sun, U. Pawar, M. Khoja, **X. Foukas**, M. K. Marina, B. Radunovic  
-  To appear in [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2024), Nov 2024 
+  In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2024), Nov 2024 
+  [[DOI](https://doi.org/10.1145/3636534.3649380)][[pdf](https://xfoukas.github.io/files/spotlight_mobicom24.pdf)]   
 
 * **On the Criticality of Integrity Protection in 5G Fronthaul Networks**  
   J. Xing, S. Yoo, **X. Foukas**, D. Kim, M. K. Reiter  
@@ -27,12 +39,12 @@ author_profile: true
   **X. Foukas**, B. Radunovic, M. Balkwill, Z. Lai  
   In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023  
   **Best Demonstration Runner-Up Award at ACM MobiCom 2023**  
-  [[DOI](https://doi.org/10.1145/3570361.3592493)][pdf](https://xfoukas.github.io/files/janus_mobicom23.pdf)]  
+  [[DOI](https://doi.org/10.1145/3570361.3592493)][[pdf](https://xfoukas.github.io/files/janus_mobicom23.pdf)]  
 
 * **Enabling Resilience in Virtualized RANs with Atlas**  
   J. Xing, J. Gong, **X. Foukas**, A. Kalia, D. Kim, M. Kotaru  
   In [Proc. ACM MobiCom](https://sigmobile.org/mobicom/2023/), Oct 2023  
-  [[DOI](https://doi.org/10.1145/3570361.3613276)][pdf](https://xfoukas.github.io/files/atlas_mobicom23.pdf)]
+  [[DOI](https://doi.org/10.1145/3570361.3613276)][[pdf](https://xfoukas.github.io/files/atlas_mobicom23.pdf)]
 
 * **Concordia: Teaching the 5G vRAN to Share Compute**  
   **X. Foukas**, B. Radunovic  
@@ -43,11 +55,6 @@ author_profile: true
   R. Singh, C. Hasan, **X. Foukas**, M. Fiore, M. K. Marina, Y. Wang  
   In [Proc. IEEE INFOCOM](https://infocom2021.ieee-infocom.org/), May 2021  
   [[DOI](https://doi.org/10.1109/INFOCOM42981.2021.9488786)][[pdf](https://xfoukas.github.io/files/5genergy_infocom21.pdf)]
-
-* **Characterization and Identification of Cloudified Mobile Network Performance Bottlenecks**  
-  G. Patounas, **X. Foukas**, A. Elmokashfi, M. K. Marina  
-  In IEEE Transactions on Network and Service Management (TNSM), Aug 2020.  
-  [[DOI](https://doi.org/10.1109/TNSM.2020.3018538)][[pdf](https://www.research.ed.ac.uk/portal/files/160831937/Characterization_and_Identification_PATOUNAS_DOA17082020_AFV.pdf)][[arxiv](https://arxiv.org/abs/2007.11472)]
 
 * **Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor Neutral-Host Small Cells**  
   **X. Foukas**, M. K. Marina and K. Kontovasilis   
