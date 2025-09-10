@@ -10,12 +10,18 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes**  
+  **X. Foukas**, T. S. Ukyab, B. Radunovic, S. Ratnasamy, S. Shenker  
+  In [ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2025/), Sep 2025  
+  [[DOI](https://doi.org/10.1145/3718958.3754349)][[pdf](https://xfoukas.github.io/files/ranbooster_sigcomm25.pdf)]  
+
+
 * **The future of the industrial AI edge is cellular**  
   **X. Foukas**, B. Radunovic  
   In [ACM HotMobile](https://hotmobile.org/2025/), Feb 2025  
   [[DOI](https://doi.org/10.1145/3708468.3711887)][[pdf](https://xfoukas.github.io/files/cellular_edge_hotmobile25.pdf)]  
 
-* **Towards Scalable and Cost-Effective RAN Emulation Leveraging the Public Cloud**
+* **Towards Scalable and Cost-Effective RAN Emulation Leveraging the Public Cloud**  
   U. Pawar, A. F. Ferguson, Y. Takano, J. Larrea, **X. Foukas**, M. K. Marina, B. Radunovic   
   In [ACM HotMobile](https://hotmobile.org/2025/), Feb 2025  
   [[DOI](https://doi.org/10.1145/3708468.3711895)][[pdf](https://xfoukas.github.io/files/ran_emulation_hotmobile25.pdf)]  
@@ -60,11 +66,6 @@ author_profile: true
   **X. Foukas**, M. K. Marina and K. Kontovasilis   
   In IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Network Softwarization & Enablers, Vol. 37, No. 8, Aug 2019.   
   [[DOI](https://doi.org/10.1109/JSAC.2019.2927067)][[arxiv](https://arxiv.org/abs/1812.06183)]  
-
-* **Experience Building a Prototype 5G Testbed**  
-  **X. Foukas**, F. Sardis, F. Foster, M. K. Marina, M. A. Lema and M. Dohler  
-  In [Proc. ACM CoNEXT 2018 Workshop on Experimentation and Measurements in 5G (EM-5G’18)](https://conferences2.sigcomm.org/co-next/2018/#!/workshop-em5g), Dec 2018.  
-  [[DOI](https://doi.org/10.1145/3286680.3286683)][[pdf](https://www.research.ed.ac.uk/portal/files/77048341/experience_building_a_prototype_5G_testbed.pdf)]  
 
 * **Orion: RAN Slicing for a Flexible and Cost-Effective Multi-Service Mobile Network Architecture**  
   **X. Foukas**, M. K. Marina and K. Kontovasilis  
