@@ -54,6 +54,6 @@ TPC member:
 
 External reviewer:
 
-* ACM SIGCOMM '25 (external reviewer)
+* ACM SIGCOMM '25
 
 
