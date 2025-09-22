@@ -19,6 +19,20 @@ My research broadly falls under the intersection of edge computing, AI and next-
 * Applications of machine learning to mobile networks
 * Large-scale testbeds and experimentation
 
+## Publications
+
+You can find a list of selected publications [here](https://xfoukas.github.io/publications/).
+
+## Interns
+
+Over the years, I have had the pleasure to collaborate and publish with several amazing interns.
+
+* [Tenzin Samten Ukyab](https://people.eecs.berkeley.edu/~ukyab/) - [RANBooster (ACM SIGCOMM '25)](https://dl.acm.org/doi/abs/10.1145/3718958.3754349) 
+* [Leyang Xue](https://drunkcoding.github.io/) - [Towards Energy Efficient 5G vRAN Servers (USENIX NSDI '25)](https://www.usenix.org/conference/nsdi25/presentation/kalia)
+* [Chuanhao Sun](https://csuned.github.io//) - [SpotLight (ACM MobiCom '24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649380)
+* [Jiarong Xing](https://jxing.me/) - [RAN fronthaul integrity protection (USENIX Security '24)](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong), [Atlas (ACM MobiCom '23)](https://dl.acm.org/doi/abs/10.1145/3570361.3613276)
+* [Sophia Yoo](https://www.cs.princeton.edu/~sy6/) - [RAN fronthaul integrity protection (USENIX Security '24)](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong)
+
 
 ## Open source projects
 
@@ -28,4 +42,18 @@ Here is a list of some open source projects that I am (have been) involved with:
 * [jrt-controller](https://github.com/microsoft/jrt-controller): Real-time controller providing functionalities envisaged by the concept of real-time RIC in O-RAN.
 * [RANBooster](https://github.com/microsoft/RANBooster/): Reference implementations of middleboxes for enhancing the fronthaul capabilities of Open RAN DU network functions.
 * [FlexRAN](https://github.com/xfoukas/flexran-sdran): Software-defined RAN platform based on OpenAirInterface. 
+
+## Professional service (selected)
+
+TPC member:
+
+* ACM MobiCom ('26, '25, '24, ...)
+* USENIX NSDI '26
+* ACM CoNEXT '25
+* ACM MobiSys '24
+
+External reviewer:
+
+* ACM SIGCOMM '25 (external reviewer)
+
 
