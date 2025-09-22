@@ -27,11 +27,11 @@ You can find a list of selected publications [here](https://xfoukas.github.io/pu
 
 Over the years, I have had the pleasure to collaborate and publish with several amazing interns.
 
-* [Tenzin Samten Ukyab](https://people.eecs.berkeley.edu/~ukyab/) - [RANBooster (ACM SIGCOMM '25)](https://dl.acm.org/doi/abs/10.1145/3718958.3754349) 
-* [Leyang Xue](https://drunkcoding.github.io/) - [Towards Energy Efficient 5G vRAN Servers (USENIX NSDI '25)](https://www.usenix.org/conference/nsdi25/presentation/kalia)
-* [Chuanhao Sun](https://csuned.github.io//) - [SpotLight (ACM MobiCom '24)](https://dl.acm.org/doi/abs/10.1145/3636534.3649380)
-* [Jiarong Xing](https://jxing.me/) - [RAN fronthaul integrity protection (USENIX Security '24)](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong), [Atlas (ACM MobiCom '23)](https://dl.acm.org/doi/abs/10.1145/3570361.3613276)
-* [Sophia Yoo](https://www.cs.princeton.edu/~sy6/) - [RAN fronthaul integrity protection (USENIX Security '24)](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong)
+* [Tenzin Samten Ukyab](https://people.eecs.berkeley.edu/~ukyab/) - [RANBooster](https://dl.acm.org/doi/abs/10.1145/3718958.3754349) (ACM SIGCOMM '25)
+* [Leyang Xue](https://drunkcoding.github.io/) - [Towards Energy Efficient 5G vRAN Servers](https://www.usenix.org/conference/nsdi25/presentation/kalia) (USENIX NSDI '25)
+* [Chuanhao Sun](https://csuned.github.io//) - [SpotLight](https://dl.acm.org/doi/abs/10.1145/3636534.3649380) (ACM MobiCom '24)
+* [Jiarong Xing](https://jxing.me/) - [RAN fronthaul integrity protection](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong) (USENIX Security '24), [Atlas](https://dl.acm.org/doi/abs/10.1145/3570361.3613276) (ACM MobiCom '23)
+* [Sophia Yoo](https://www.cs.princeton.edu/~sy6/) - [RAN fronthaul integrity protection](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong) (USENIX Security '24)
 
 
 ## Open source projects
