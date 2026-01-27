@@ -13,7 +13,7 @@ I am a Principal Researcher at [Microsoft Research](https://www.microsoft.com/en
 
 My research broadly falls under the intersection of edge computing, AI and next-generation mobile networks. My on-going research is on the following topics:
 
-* Edge platforms for physical AI
+* Systems for physical AI
 * Intelligent edge observability and control
 * AI-RAN architecture & performance
 * Applications of machine learning to mobile networks
