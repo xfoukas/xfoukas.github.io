@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**
+* **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**  
   S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma
   Under submission
 
