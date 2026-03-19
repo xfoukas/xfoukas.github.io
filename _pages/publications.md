@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 * **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**  
-  S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma
+  S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma  
   Under submission
 
 * **RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes**  
