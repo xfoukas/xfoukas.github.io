@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**
+  S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma
+  Under submission
+
 * **RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes**  
   **X. Foukas**, T. S. Ukyab, B. Radunovic, S. Ratnasamy, S. Shenker  
   In [ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2025/), Sep 2025  
