@@ -14,6 +14,11 @@ author_profile: true
   S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma  
   Under submission
 
+* **Distributed AI Platform for the 6G RAN**  
+  G. Ananthanarayanan, M. Balkwill, **X. Foukas**, Z. Lai, B. Radunovic, C. Settle, Y. Zhang  
+  In [ACM OpenRAN](https://wcsng.ucsd.edu/open-ai-ran-2025/), Nov 2025  
+  [[DOI](https://doi.org/10.1145/3737900.3770167)] 
+
 * **RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes**  
   **X. Foukas**, T. S. Ukyab, B. Radunovic, S. Ratnasamy, S. Shenker  
   In [ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2025/), Sep 2025  
