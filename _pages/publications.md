@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 * **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**  
   S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma  
-  Under submission
+  Under submission  
+  [[arxiv preprint](https://arxiv.org/abs/2603.18284)]
 
 * **Distributed AI Platform for the 6G RAN**  
   G. Ananthanarayanan, M. Balkwill, **X. Foukas**, Z. Lai, B. Radunovic, C. Settle, Y. Zhang  
