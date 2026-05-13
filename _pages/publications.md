@@ -10,6 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Kairos: A Scalable Serving System for Physical AI**  
+  Y. Dai, G. Ananthanarayanan, L. Cox, **X. Foukas**, B. Radunovic, R. Netravali  
+  Under submission
+  [[arxiv preprint](https://arxiv.org/abs/2605.11381)]  
+
+
 * **Offload or Overload: A Platform Measurement Study of Mobile Robotic Manipulation Workloads**  
   S. Pohland, **X. Foukas**, G. Ananthanarayanan, A. Kolobov, S. Mehrotra, B. Radunovic, A. Verma  
   Under submission  
