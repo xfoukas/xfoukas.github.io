@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 * **Kairos: A Scalable Serving System for Physical AI**  
   Y. Dai, G. Ananthanarayanan, L. Cox, **X. Foukas**, B. Radunovic, R. Netravali  
-  Under submission
+  Under submission  
   [[arxiv preprint](https://arxiv.org/abs/2605.11381)]  
 
 
