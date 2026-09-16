@@ -21,6 +21,10 @@ author_profile: true
   Under submission  
   [[arxiv preprint](https://arxiv.org/abs/2603.18284)]
 
+* **Chronos: Scalable and Cost-Effective Cloud-based RAN Emulation System**  
+  U. Pawar, A. E. Ferguson, Y. Xia, **X. Foukas**, M. Marina, B. Radunovic  
+  In [ACM MobiCom](https://www.sigmobile.org/mobicom/2026/), Oct 2026  
+
 * **Distributed AI Platform for the 6G RAN**  
   G. Ananthanarayanan, M. Balkwill, **X. Foukas**, Z. Lai, B. Radunovic, C. Settle, Y. Zhang  
   In [ACM OpenRAN](https://wcsng.ucsd.edu/open-ai-ran-2025/), Nov 2025  
