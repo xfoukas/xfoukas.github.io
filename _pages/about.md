@@ -11,10 +11,10 @@ redirect_from:
 
 I am a Principal Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/). Prior to this, I was a Research Associate in the [School of Informatics](https://www.ed.ac.uk/informatics/) at the [University of Edinburgh](https://www.ed.ac.uk/) working in the research group of [Dr. Mahesh K. Marina](http://homepages.inf.ed.ac.uk/mmarina/index.html). I received my PhD in Computer Science in 2018 from the University of Edinburgh and my MSc in Advanced Computing in 2013 from [Imperial College London](https://www.imperial.ac.uk/). 
 
-My research broadly falls under the intersection of edge computing, AI and next-generation mobile networks. My on-going research is on the following topics:
+My research broadly falls under the intersection of the following topics:
 
-* Systems for physical AI
-* Intelligent edge observability and control
+* High performance edge computing
+* Systems for physical and distributed AI
 * AI-RAN architecture & performance
 * Applications of machine learning to mobile networks
 * Large-scale testbeds and experimentation
